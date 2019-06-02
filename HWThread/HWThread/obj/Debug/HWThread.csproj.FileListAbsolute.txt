@@ -1,0 +1,7 @@
+C:\Users\itsvibel\source\repos\HWThread\HWThread\bin\Debug\HWThread.exe.config
+C:\Users\itsvibel\source\repos\HWThread\HWThread\bin\Debug\HWThread.exe
+C:\Users\itsvibel\source\repos\HWThread\HWThread\bin\Debug\HWThread.pdb
+C:\Users\itsvibel\source\repos\HWThread\HWThread\obj\Debug\HWThread.csprojAssemblyReference.cache
+C:\Users\itsvibel\source\repos\HWThread\HWThread\obj\Debug\HWThread.csproj.CoreCompileInputs.cache
+C:\Users\itsvibel\source\repos\HWThread\HWThread\obj\Debug\HWThread.exe
+C:\Users\itsvibel\source\repos\HWThread\HWThread\obj\Debug\HWThread.pdb
